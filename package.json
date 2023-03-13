@@ -1,0 +1,19 @@
+{
+  "name": "social-media-app-frontend",
+  "version": "1.0.0",
+  "description": "This is an ongoing implementation of a social media application built with React and Node.js. It allows users to connect with each other, share content, and engage in conversations. (The backend project is [HERE](https://github.com/mhadikazemian/Social-Media-App-Backend))",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhadikazemian/Social-Media-App-Frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhadikazemian/Social-Media-App-Frontend/issues"
+  },
+  "homepage": "https://github.com/mhadikazemian/Social-Media-App-Frontend#readme"
+}
