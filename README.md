@@ -1,4 +1,4 @@
-# Social-Media-App-Frontend
+# Social Media App Frontend
 
 This is an ongoing implementation of a social media application built with React and Node.js. It allows users to connect with each other, share content, and engage in conversations. (The backend project is [HERE](https://github.com/mhadikazemian/Social-Media-App-Backend))
 
